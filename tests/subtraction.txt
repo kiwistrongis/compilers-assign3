@@ -1,0 +1,4 @@
+let x = 50
+let y = 3
+let c = x - y
+print( c)

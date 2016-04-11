@@ -1,0 +1,6 @@
+let x = 10
+
+repeat 5 {
+	let x = 10 + x
+	print( x)
+}

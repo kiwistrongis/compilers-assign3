@@ -1,0 +1,6 @@
+let i = 9
+let b = 5
+let c = 4
+let d = 6
+let w = 978
+print( i, b, c, d, w)

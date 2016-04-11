@@ -1,0 +1,6 @@
+let a = 0
+repeat 10 {
+	let a = a + 1
+	print( a)
+	print( a + 10)
+}

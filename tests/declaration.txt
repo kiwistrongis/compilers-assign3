@@ -1,0 +1,4 @@
+let a = 70
+let b = 8
+let c = 10000
+print( a, b, c)
